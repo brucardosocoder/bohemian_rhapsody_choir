@@ -26,7 +26,7 @@ class WebDAW {
             { name: 'Alto', file: 'audio/Alto.mp3', color: '#fbff00ff' },
             { name: 'Tenor', file: 'audio/Tenor.mp3', color: '#09ff00ff' },
             { name: 'Baixo', file: 'audio/Baixo.mp3', color: '#00e1ffff' },
-            { name: 'Freddie', file: 'audio/Freddie.mp3', color: '#000000ff' },
+            { name: 'Freddie', file: 'audio/Freddie.mp3', color: '#ff0000ff' },
             { name: 'Band', file: 'audio/Band.mp3', color: '#ffffffff' },
         ];
         
